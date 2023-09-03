@@ -1,6 +1,6 @@
 Hi, My name is Alyssa Newman.
-I’m interested in Data Analysis
-I’m currently learning SQL
+I’m interested in Data Analysis.
+I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
